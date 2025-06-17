@@ -32,7 +32,7 @@ Help-me-fly-main/
 3. Open `about.html` in a browser (preferably Chrome or Firefox).
 
 ```bash
-git clone https://github.com/YourUsername/Help-me-fly.git
+git clone https://github.com/JamestarKurbah/Help-me-fly.git
 cd Help-me-fly/How\ To\ Fly
 start about.html   # or open it manually in a browser
 ```
