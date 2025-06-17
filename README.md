@@ -10,7 +10,7 @@ To run the project locally, open `about.html` in any modern browser.
 ```
 Help-me-fly-main/
 ├── How To Fly/
-│   ├── about.html          # Main HTML file to launch the game
+│   ├── index.html          # Main HTML file to launch the game
 │   ├── bird.js             # Game logic (JavaScript)
 │   ├── BG.png              # Background images
 │   ├── Play_Button.png     # UI elements
@@ -34,7 +34,7 @@ Help-me-fly-main/
 ```bash
 git clone https://github.com/JamestarKurbah/Help-me-fly.git
 cd Help-me-fly/How\ To\ Fly
-start about.html   # or open it manually in a browser
+start index.html   # or open it manually in a browser
 ```
 
 ## 📸 Screenshots
